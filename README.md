@@ -54,6 +54,6 @@ This dashboard helps decision-makers quickly understand sales trends and regiona
 💻 *MCA | Web Developer | Data Enthusiast | C++ Programmer*  
 📬 **Email:** [caditya965@gmail.com](mailto:caditya965@gmail.com)  
 🔗 **LinkedIn:** [adiityachoudhary](https://www.linkedin.com/in/adiityachoudhary/)  
-🌐 **Portfolio:** [Visit My Portfolio](https://adiityachoudhary.github.io/portfolio/)
+🌐 **Portfolio:** [adiityachoudhary.github.io/portfolio/](https://adiityachoudhary.github.io/portfolio/)
 
 ---
